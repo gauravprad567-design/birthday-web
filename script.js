@@ -24,9 +24,9 @@ function scrollToSection(sectionId) {
 // Show message popup
 function showMessage(num) {
     const messages = [
-        "You have the most beautiful smile ❤️",
-        "Your kindness makes the world better 🌸",
-        "You shine brighter than the stars ⭐"
+        "I love you babe, happy Birthday 💌",
+        "You'll always be loved 🌸",
+        "My girl ⭐"
     ];
     
     const popup = document.getElementById('popup');
